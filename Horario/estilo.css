@@ -1,0 +1,34 @@
+.horaLibre{
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(62, 248, 155);
+}
+
+.disenoLogico {
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(94, 185, 245);
+}
+
+.lenguajes{
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(61, 209, 81);
+}
+
+.adminProyectos {
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(138, 61, 209);
+}
+
+.analisisAlgoritmos {
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(89, 224, 61);
+}
+
+.programacionWeb {
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(236, 76, 241);
+}
+
+.laboratorio {
+    border: 1px solid rgb(57, 240, 253);
+    background-color: rgb(235, 40, 105);
+}
